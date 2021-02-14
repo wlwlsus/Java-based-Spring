@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <style>
-        #main {
-            text-align: center;
-        }
-    </style>
+
 </head>
 <body>
     <div id="main">
@@ -14,5 +10,6 @@
         <a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard" target="_blnk">강의 주소</a>
         <p><img src="https://cdn.inflearn.com/public/files/courses/325630/217f3ed2-dbe4-4efa-962b-972831943846/325630-0.jpg" alt="Image1" width="300"></p>    
     </div>
+
 </body>
 </html>
